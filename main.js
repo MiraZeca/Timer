@@ -28,7 +28,7 @@ function oduzimanje() {
         if(i==0){
             i++
         }else{
-            if(j+1 != niz[0].lenght){
+            if(j+1 != niz[0].length){
             i=0;
             j++;
             }else{
